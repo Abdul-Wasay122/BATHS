@@ -14,5 +14,23 @@
 
 ---
 
-## 📁 Project Structure
+
+---
+
+## 🛠️ How to Run
+
+### 🧾 Prerequisites
+
+- Java JDK 8 or higher
+- An IDE like IntelliJ IDEA, Eclipse, or command-line terminal
+
+### ▶️ Compile & Run
+
+From the terminal:
+
+```bash
+javac SeaBattles.java GameUI.java BATHS.java
+java SeaBattles
+
+### Author Abdul Wasay 
 
